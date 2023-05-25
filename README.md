@@ -16,3 +16,4 @@ Notes on Cyber Training Platforms and websites
 13. [Zero Point Security](https://training.zeropointsecurity.co.uk/collections)
 14. [Taggart Institute: Python for Defenders](https://taggartinstitute.org/p/python-for-defenders-pt1)
 15. [Scythe](https://scythe.io/)
+16. [Eric Capuano: So you want to be a SOC Analyst? Part 1](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part)
