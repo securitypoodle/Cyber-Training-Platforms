@@ -9,6 +9,9 @@ This section contains sanitized, high-level notes for both Blue Team Level 1 (BT
 5. SIEM
 6. Incident Response
 
+### BTL1 Additional Resources
+- [TryHackMe Rooms to Help with BTL1](https://github.com/securitypoodle/Cyber-Training-Platforms/blob/main/SecurityBlueTeam/TryHackMe%20Rooms%20to%20Help%20with%20BTL1.md)
+
 ## [BTL2 Domains](https://securityblue.team/btl2/)
 1. Malware Analysis
 2. Threat Hunting
