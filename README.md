@@ -17,4 +17,4 @@ Notes on Cyber Training Platforms and websites
 | [The XSS Rat](https://thexssrat.podia.com) |  |  |
 | [TryHackMe](https://tryhackme.com) | Hands-on gamification training for offensive and defensive cybersecurity. Ideal for beginners. |  |
 | [Web Security Academy](https://portswigger.net/web-security/learning-path) | From [Portswigger](https://portswigger.net/), creators of the web security tool Burp Suite. Teaching security professionals about all things related to web security and OWASP Top 10. | [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) |
-| [Zero Point Security](https://training.zeropointsecurity.co.uk/collections) | Practical certification training for offensive cybersecurity. | [CRTO](https://training.zeropointsecurity.co.uk/collections/red-team) 
+| [Zero Point Security](https://training.zeropointsecurity.co.uk/collections) | Practical certification training for offensive cybersecurity. | [CRTO](https://training.zeropointsecurity.co.uk/collections/red-team) |
