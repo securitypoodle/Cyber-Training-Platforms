@@ -12,7 +12,7 @@ Notes on Cyber Training Platforms and websites
 | [Security Blue Team](https://elearning.securityblue.team/login) | Practical certification training for defensive cybersecurity. | [BTL1](https://securityblue.team/why-btl1/) / [BTL2](https://securityblue.team/btl2/) |
 | [SimplyCyber Definitive GRC Analyst Master Class](https://simplycyber.teachable.com) |  |  |
 | [So you want to be a SOC Analyst? Part 1](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part) | From author Eric Capuano, this is a comprehensive guide to answer the question "What should I do to improve my chances of landing an entry-level SOC analyst job?" Walks you through setting up a virtual SOC lab for hands-on practical experience. |  |
-| [SOC Core Skills w/ John Strand](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/) | From [Antisyphon Training](https://www.antisyphontraining.com/), this instructor-led class teaches fundamentals and beyond for Security Operations (SOC) analysts and engineers. |  |
+| [SOC Core Skills w/ John Strand](https://www.antisyphontraining.com/on-demand-courses/soc-core-skills-w-john-strand/) | From [Antisyphon Training](https://www.antisyphontraining.com/), this instructor-led class teaches fundamentals and beyond for Security Operations (SOC) analysts and engineers. |  |
 | [TCM-Security](https://academy.tcm-sec.com/) | Practical certification training for offensive cybersecurity. | [PNPT](https://certifications.tcm-sec.com/pnpt/) / [PJMR](https://certifications.tcm-sec.com/pjmr/) |
 | [The XSS Rat](https://thexssrat.podia.com) |  |  |
 | [TryHackMe](https://tryhackme.com) | Hands-on gamification training for offensive and defensive cybersecurity. Ideal for beginners. |  |
