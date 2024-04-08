@@ -50,9 +50,9 @@ This domain has an optional section that teaches you how to build your own malwa
 
 As someone who has spent most of their professional career avoiding clicking random links in emails, it is really neat to actually feel confident detonating the malware and actually being able to analyze *and understand* what happens when this occurs. The malware analysis tools they cover really do a lot of heavy lifting in helping you understand what's happening, which came as a big relief to someone whose eyes sometimes glaze over when they see a full screen of code. 
 
-Music to study to: Instrumental Progressive Rock/Metal
-- [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl?si=HhzzM2n1RRWWhiXhspHzyw)
-- [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic?si=uUsyr-7SQPOQ8wHJwg5feA)
+🎵 Music to study to: Instrumental Progressive Rock/Metal 🎵
+🎸 [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl?si=HhzzM2n1RRWWhiXhspHzyw)
+🎸 [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic?si=uUsyr-7SQPOQ8wHJwg5feA)
 
 
 ## Threat Hunting
@@ -62,10 +62,10 @@ I'll be honest, this was the main reason I wanted to take BTL2. When I discovere
 
 Anyways, this is the longest domain of the bunch - but really in-depth and worthwhile. It is also *extremely* technical like Malware Analysis, as it teaches you to navigate through systems and logs to retrieve artifacts you want to look for. But that's the key - sometimes you don't know where to start - that's where this domain excells. It teaches you the who, what, when, where, why, and how of extracting artifacts to aid in your investigations for threats plaguing the environment. The training not only teaches you the technical skill to do this, but also helps you build a mindset and baseline to approach a threat hunt, and this is key for the exam and real-world application. You will not always be provided with a perfect scope, environment, or tooling, so when you're asked to "find out where evil lives" or "what did the threat do" in an environment, you will already have the mindset needed to take the challenge head on, and more importantly, produce tangible results (i.e. a report) for any higher ups that need answers. 
 
-Music to study to: Synthwave/Retrowave/Outrun
-- [Kung Fury OST](https://open.spotify.com/album/1LvYQkoLEtTOqpuoc4X3IX?si=hZ3POzJjSbqfVD0mxKCDVg)
-- [Mitch Murder](https://open.spotify.com/album/1ln0cipwqohGR62gIBgpBM?si=UfLqpjwjT_euD_6q55NbvQ)
-- [Synthwave for Driving](https://open.spotify.com/playlist/5xQxOMOVkWNXQAtwWP8XfC?si=51e5b5b663114bec)
+🎵 Music to study to: Synthwave/Retrowave/Outrun 🎵
+🎧 [Kung Fury OST](https://open.spotify.com/album/1LvYQkoLEtTOqpuoc4X3IX?si=hZ3POzJjSbqfVD0mxKCDVg)
+🎧 [Mitch Murder](https://open.spotify.com/album/1ln0cipwqohGR62gIBgpBM?si=UfLqpjwjT_euD_6q55NbvQ)
+🎧 [Synthwave for Driving](https://open.spotify.com/playlist/5xQxOMOVkWNXQAtwWP8XfC?si=51e5b5b663114bec)
 
 
 ## Advanced SIEM
@@ -82,9 +82,9 @@ That's what this domain covers. BTL1 introduces you to the idea of a SIEM and te
 
 This is the section where the more reps, the better. SBT's SIEM of choice here is Splunk (BTL1 covers it, BTL2 expands on it), so the more comfortable you are with it, the easier it will be for you to extract the data you want (and need) for the exam. 
 
-Music to study to: Classical piano
-- [Rousseau](https://open.spotify.com/playlist/31mVl7TDRsto0qwvUcXD8s?si=0506f74b47b1453f)
-- [Kassia](https://open.spotify.com/artist/3m8qh3adp23dCoZBHZt5IH?si=vb05vpq8TpGPmX3l4ajSfA)
+🎵 Music to study to: Classical piano 🎵
+🎹 [Rousseau](https://open.spotify.com/playlist/31mVl7TDRsto0qwvUcXD8s?si=0506f74b47b1453f)
+🎹 [Kassia](https://open.spotify.com/artist/3m8qh3adp23dCoZBHZt5IH?si=vb05vpq8TpGPmX3l4ajSfA)
 
 
 ## Vulnerability Management
@@ -96,11 +96,11 @@ Being able to run, report on, and explain vulnerabilities to both technical and 
 
 I have worked for Managed Security Service Providers (MSSP - a type of cybersecurity consulting company) for a large portion of my career and Vulnerability Management and Scanning is always at the top of the conversation between us (the MSSP) and the client (customer). This is a great proactive way for organizations to better understand and secure their environment. It's also usually one of the first things a threat actor completes during [Reconnaissance](https://attack.mitre.org/tactics/TA0043/). 
 
-Music to study to: Funk/Jazz
-- [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6?si=fKDwXdGlTK2IiSCrmwr26w)
-- [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU?si=xuDZqqfCSAmPVPz6KHOFJw)
-- [Sylva](https://open.spotify.com/album/4CMBJalQcdxkisQvx8iJxJ?si=lHxPqIPOSzyYe2zsEVo12Q)
-- [Anika Niles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi?si=sQkKQdm2SlybUi_pWmtPAA)
+🎵 Music to study to: Funk/Jazz 🎵
+🎷 [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6?si=fKDwXdGlTK2IiSCrmwr26w)
+🎺 [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU?si=xuDZqqfCSAmPVPz6KHOFJw)
+🎸 [Sylva](https://open.spotify.com/album/4CMBJalQcdxkisQvx8iJxJ?si=lHxPqIPOSzyYe2zsEVo12Q)
+🥁 [Anika Niles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi?si=sQkKQdm2SlybUi_pWmtPAA)
 
 
 ## Exam 
@@ -118,9 +118,10 @@ Also, breathe. You have time to do everything you need to. Whenever you're about
 - "I need this, how do I find that?"
 - "I already have this, is this relevant?"
 - "Can I use this info somewhere else?" 
+
 When you come back, you'll be refreshed and have stepping stones to your next tasks ready to go. 
 
-Lastly, take a walk when you're stuck. Still write down the note of what you need before you walk away, but getting out of the house and moving in the outside air works *tremendously* for unsticking your brain. 
+Lastly, take a walk when you're stuck. Still write down and note what you need before you walk away, but getting out of the house and moving in the outside air works *tremendously* for unsticking your brain. 
 
 Since the exam is a written report, results are not instant like BTL1 as it is hand graded by their lead trainer. This can cause some extended delays in receiving your  grade. Personally, my wait time was 39 business days from submitting the exam to receiving the results, but on the SBT Discord there have been others claiming longer. SBT is aware of this sore spot and are dedicated to improving turnaround time some time in the future. The feedback they provide for your exam results are incredibly detailed, even for a passing grade. I knew I missed some details when I submitted my report, and the feedback reflected where I could have improved, so it was very refreshing to see the committment to detail. 
 
