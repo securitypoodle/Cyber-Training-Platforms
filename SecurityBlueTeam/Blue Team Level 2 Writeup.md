@@ -112,6 +112,7 @@ My biggest tip for the exam - Recreate the labs you've already completed through
 - How did you approach that threat hunt?
 - What about how to retrieve that one type of log?
 - Or use that vulnerability scanner?
+
 Pretend your exam environment is the lab environments you've already been through and answer the same exact questions with your new data. The exam won't necessarily  need the answers it produces, but going through the motions again within the exam environment can help you think of things you might not have otherwise. You'll be surprised how much of what you've learned from the labs that will help you here. (I mean, that's the point of the labs right?)
 
 Also, breathe. You have time to do everything you need to. Whenever you're about to step away from the exam to take a break to eat, sleep, etc - write down notes of what questions you still need to find answers for. 
