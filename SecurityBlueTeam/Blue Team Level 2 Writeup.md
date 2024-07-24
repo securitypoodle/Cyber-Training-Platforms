@@ -1,7 +1,7 @@
 # Blue Team Level 2 Writeup
 ## Intro
 
-Blue Team Level 2 (BTL2) by Security Blue Team is an excellent course and certification for those interested in furthering their career and knowledge in security operations and incident response beyond the junior and intermediate levels. I had the privilege to take and (thankfully) pass the exam early 2024, and can say with confidence - this exam is no joke. They provide 5 months access to the course and lab environment (w/ 120 hours of lab runtime), and you better believe I utilized all of the time available (extentions are available to purchase for those that need some extra time).
+Blue Team Level 2 (BTL2) by Security Blue Team is an excellent course and certification for those interested in furthering their career and knowledge in security operations and incident response beyond the junior and intermediate levels. I had the privilege to take and (thankfully) pass the exam early 2024, and can say with confidence - this exam is no joke. They provide 5 months access to the course and lab environment (w/ 120 hours of lab runtime), and you better believe I utilized all of the time available (extensions are available to purchase for those that need some extra time).
 
 I will not go into detail on what each of the domains/sections specifically cover in detail (there are other writeups I'll link below for that), but I will provide context to how I felt about and approached each domain. I'll also share some exam tips I think helped me pass.
 
