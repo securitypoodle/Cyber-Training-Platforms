@@ -17,3 +17,6 @@ This section contains sanitized, high-level notes for both Blue Team Level 1 (BT
 2. Threat Hunting
 3. Advanced SIEM
 4. Vulnerability Management
+
+### BTL2 Additional Resources
+- [Blue Team Level 2 Writeup](https://github.com/securitypoodle/Cyber-Training-Platforms/blob/main/SecurityBlueTeam/Blue%20Team%20Level%202%20Writeup.md)
